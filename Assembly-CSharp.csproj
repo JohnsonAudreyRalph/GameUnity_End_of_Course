@@ -57,10 +57,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Player_Controller.cs" />
+    <Compile Include="Assets\Script\WaitPointFollower.cs" />
     <Compile Include="Assets\Script\PlayerLife.cs" />
+    <Compile Include="Assets\Script\StartMenu.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\EndMenu.cs" />
+    <Compile Include="Assets\Script\StickyPlaftroms.cs" />
     <Compile Include="Assets\Script\ItemCollector.cs" />
+    <Compile Include="Assets\Script\Rotate.cs" />
     <Compile Include="Assets\Script\Camera_main.cs" />
+    <Compile Include="Assets\Script\Finish.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

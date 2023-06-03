@@ -9,6 +9,8 @@ public class Player_Controller : MonoBehaviour
     Rigidbody2D myBody;
     Animator myAnimator;
 
+    [SerializeField] private AudioSource jumpSound;
+
     // ===============================
     private bool isGrounded; // Tạo ra một biến để kiểm tra xem đuối tượng đã "chạm đất" hay chưa
     private int jumpCount; // Biến đếm số lần nhảy
@@ -85,6 +87,7 @@ public class Player_Controller : MonoBehaviour
         if (canJump && Input.GetKeyDown("space"))
         {
             jumpCount++;
+            jumpSound.Play();
             if (jumpCount < 2)
             {
                 GetComponent<Rigidbody2D>().velocity = new Vector3(0, 10, 0);
