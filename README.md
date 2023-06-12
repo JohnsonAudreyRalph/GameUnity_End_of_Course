@@ -1,5 +1,4 @@
 # Bài tập lớn môn học: <h1>Lập trình Game 3D với Unity </h1>
-<br/>
 ***
 ## Thông tin về đề tài:
 > Giáo viên hướng dẫn: ThS. Đỗ Duy Cốp
