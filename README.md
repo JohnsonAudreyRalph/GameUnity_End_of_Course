@@ -13,6 +13,7 @@
 ## Thông tin về đề tài
 ### Mô tả về Game:
 > Cốt truyện Game
+
 Game được xây dựng theo thể loại phiêu lưu mạo hiểm.
 Nội dung game là một hành trình của RoboCop, trong quá trình phiêu lưu để tìm kiếm kho báu, cậu đã vô tình lạc vào trong một hang động dưới lòng đất. Game sẽ là quá trình RoboCop tìm kiếm kho báu, tránh đi những cạm bẫy và tìm đường quay trở lại mặt đât.
 Cuộc hành trình đầy khó khăn của RoboCop sẽ như thế nào?
@@ -20,21 +21,30 @@ Những khó khăn, những cạm bẫy đầy chết chóc sẽ như thế nào
 Hãy giúp cho RoboCop cùng vượt qua hang động và tiến đến kho báu cho chính mình.
 
 Hình ảnh giao diện ban đầu
-   ![Giao diện vào game ban đầu](https://i.imgur.com/EeHRvLW.png)
+![Giao diện vào game ban đầu](https://i.imgur.com/EeHRvLW.png)
 > Mô tả quá trình chơi Game:
+
 Game khi bắt đầu. Người dùng cần bấm nút “START” để có thể vào giao diện chơi, người chơi sử dụng bàn phím để điều khiển nhân vật qua phía bên trái, phải, ngảy lên trên, khi người chơi di chuyển thì Camera sẽ tự động di chuyển theo người chơi. Người chơi điều khiển nhân vật để có thể tránh cạm bẫy và tiến về đích, trong quá trình tiến về đích, nếu người chơi vô tình va chạm vào nhưng chướng ngại thì sẽ chết và quay về điểm hồi sinh ban đầu.
+
+
 ### Logic chơi Game:
 Logic chơi game khá là đơn giản, nhưng cũng cần sự khéo léo để người chơi có thể vượt qua những cạm bẫy đầy chết chóc. Cũng cần người chơi có đôi mắt tinh tường để có thể phát hiện ra các bậc thang, các đệm nhảy để nhân vật có thể tiếp tục tiến lên phía trước
 
+Giao diện khi chơi game
 ![Giao diện khi chơi game](https://i.imgur.com/GaVwwsT.png)
 
+Người chơi cần thật tinh mắt để có thể nhìn thấy bậc
 ![Người chơi cần thật tinh mắt để có thể nhìn thấy bậc](https://i.imgur.com/8Htgiu7.png)
 
+Hình ảnh khi người chơi đến đích - qua màn
 ![Hình ảnh khi người chơi đến đích - qua màn](https://i.imgur.com/vm7o86T.png)
 
+Hỉnh ảnh ở màn 2
 ![Hỉnh ảnh ở màn 2](https://i.imgur.com/WZshYO2.png)
 
+Hình ảnh kết thúc Game
 ![Hình ảnh kết thúc Game](https://i.imgur.com/cZtZY6o.png)
+
 ### Các module chính:
 Các modul chính được sử dụng lần lượt là:
 - Module **Kiểm tra nhân vật trên mặt đất**
