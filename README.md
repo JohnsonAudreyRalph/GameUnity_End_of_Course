@@ -9,7 +9,7 @@
 
 > MSSV:                K195480106018
 ***
-[Click vào đây để có thể tải và cài đặt](https://drive.google.com/file/d/1VXdVF_d1QBM52HeN76qbjzNCgxOTgKOt/view?usp=sharing)
+[Click vào đây để có thể tải và cài đặt](https://drive.google.com/file/d/1zZHz8mCf2GxqEe1LCnPLGxLX1ceslnE-/view?usp=sharing)
 ## Thông tin về đề tài
 ### Mô tả về Game:
 #### Cốt truyện Game
