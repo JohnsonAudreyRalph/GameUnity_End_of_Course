@@ -12,7 +12,7 @@
 [Click vào đây để có thể tải và cài đặt](https://drive.google.com/file/d/1VXdVF_d1QBM52HeN76qbjzNCgxOTgKOt/view?usp=sharing)
 ## Thông tin về đề tài
 ### Mô tả về Game:
-> Cốt truyện Game
+#### Cốt truyện Game
 
 Game được xây dựng theo thể loại phiêu lưu mạo hiểm.
 Nội dung game là một hành trình của RoboCop, trong quá trình phiêu lưu để tìm kiếm kho báu, cậu đã vô tình lạc vào trong một hang động dưới lòng đất. Game sẽ là quá trình RoboCop tìm kiếm kho báu, tránh đi những cạm bẫy và tìm đường quay trở lại mặt đât.
@@ -22,7 +22,7 @@ Hãy giúp cho RoboCop cùng vượt qua hang động và tiến đến kho báu
 
 Hình ảnh giao diện ban đầu
 ![Giao diện vào game ban đầu](https://i.imgur.com/EeHRvLW.png)
-> Mô tả quá trình chơi Game:
+#### Mô tả quá trình chơi Game:
 
 Game khi bắt đầu. Người dùng cần bấm nút “START” để có thể vào giao diện chơi, người chơi sử dụng bàn phím để điều khiển nhân vật qua phía bên trái, phải, ngảy lên trên, khi người chơi di chuyển thì Camera sẽ tự động di chuyển theo người chơi. Người chơi điều khiển nhân vật để có thể tránh cạm bẫy và tiến về đích, trong quá trình tiến về đích, nếu người chơi vô tình va chạm vào nhưng chướng ngại thì sẽ chết và quay về điểm hồi sinh ban đầu.
 
