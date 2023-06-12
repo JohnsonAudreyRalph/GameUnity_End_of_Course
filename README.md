@@ -42,7 +42,7 @@ Hình ảnh khi người chơi đến đích - qua màn
 ![Hỉnh ảnh ở màn 2](https://i.imgur.com/WZshYO2.png)
 
 Hình ảnh kết thúc Game
-![Hình ảnh kết thúc Game](https://i.imgur.com/cZtZY6o.png)
+![Hình ảnh kết thúc Game](https://i.imgur.com/7UiZXCg.png)
 
 ### Các module chính:
 Các modul chính được sử dụng lần lượt là:
