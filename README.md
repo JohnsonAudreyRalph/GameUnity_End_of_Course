@@ -1,13 +1,10 @@
-# Bài tập lớn môn học: <h1>Lập trình Game 3D với Unity </h1>
+# Bài tập lớn môn học: Lập trình Game 3D với Unity
 ***
 ## Thông tin về đề tài:
-> Giáo viên hướng dẫn: ThS. Đỗ Duy Cốp
-
-> Sinh viên thực hiện: Phạm Sỹ Quang
-
-> Lớp:                 55KMT
-
-> MSSV:                K195480106018
+<h2>Giáo viên hướng dẫn: ThS. Đỗ Duy Cốp</h2>
+<h2>Sinh viên thực hiện: Phạm Sỹ Quang</h2>
+<h2>Lớp:                 55KMT</h2>
+<h2>MSSV:                K195480106018</h2>
 ***
 [Click vào đây để có thể tải và cài đặt](https://drive.google.com/file/d/1VXdVF_d1QBM52HeN76qbjzNCgxOTgKOt/view?usp=sharing)
 ## Thông tin về đề tài
@@ -18,12 +15,14 @@ Nội dung game là một hành trình của RoboCop, trong quá trình phiêu l
 Cuộc hành trình đầy khó khăn của RoboCop sẽ như thế nào?
 Những khó khăn, những cạm bẫy đầy chết chóc sẽ như thế nào?
 Hãy giúp cho RoboCop cùng vượt qua hang động và tiến đến kho báu cho chính mình.
-![Giao diện vào game ban đầu](https://i.imgur.com/EeHRvLW.png)
+![Giao diện vào game ban đầu]
+(https://i.imgur.com/EeHRvLW.png)
 > Mô tả quá trình chơi Game:
 Game khi bắt đầu. Người dùng cần bấm nút “START” để có thể vào giao diện chơi, người chơi sử dụng bàn phím để điều khiển nhân vật qua phía bên trái, phải, ngảy lên trên, khi người chơi di chuyển thì Camera sẽ tự động di chuyển theo người chơi. Người chơi điều khiển nhân vật để có thể tránh cạm bẫy và tiến về đích, trong quá trình tiến về đích, nếu người chơi vô tình va chạm vào nhưng chướng ngại thì sẽ chết và quay về điểm hồi sinh ban đầu.
 ### Logic chơi Game:
 Logic chơi game khá là đơn giản, nhưng cũng cần sự khéo léo để người chơi có thể vượt qua những cạm bẫy đầy chết chóc. Cũng cần người chơi có đôi mắt tinh tường để có thể phát hiện ra các bậc thang, các đệm nhảy để nhân vật có thể tiếp tục tiến lên phía trước
-![Giao diện khi chơi game](https://drive.google.com/file/d/1hkJRKEcH5x1GNViAs2Gy1T3tWque5cRp/view?usp=sharing)
+![Giao diện khi chơi game]
+(https://i.imgur.com/GaVwwsT.png)
 ![Người chơi cần thật tinh mắt để có thể nhìn thấy bậc](https://drive.google.com/file/d/1JEAWB3XZHZENQgJOSu8ABDonHmbkcjvq/view?usp=sharing)
 ![Hình ảnh khi người chơi đến đích - qua màn](https://drive.google.com/file/d/1QjoB_4_WnBQSmmS1DBJmblyFgJaHfpIg/view?usp=sharing)
 ![Hỉnh ảnh ở màn 2](https://drive.google.com/file/d/12rlxEcrZdxyB9MpPm8nir9arm-0lokyB/view?usp=sharing)
