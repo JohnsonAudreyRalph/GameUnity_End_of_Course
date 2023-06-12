@@ -39,7 +39,6 @@ Người chơi cần thật tinh mắt để có thể nhìn thấy bậc
 Hình ảnh khi người chơi đến đích - qua màn
 ![Hình ảnh khi người chơi đến đích - qua màn](https://i.imgur.com/vm7o86T.png)
 
-Hỉnh ảnh ở màn 2
 ![Hỉnh ảnh ở màn 2](https://i.imgur.com/WZshYO2.png)
 
 Hình ảnh kết thúc Game
